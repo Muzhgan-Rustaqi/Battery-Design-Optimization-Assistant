@@ -1,0 +1,74 @@
+Trip,Date,Route/Area,Weather,Battery Temperature (Start) [°C],Battery Temperature (End),Battery State of Charge (Start),Battery State of Charge (End),,Ambient Temperature (Start) [°C],Target Cabin Temperature,Distance [km],Duration [min],,Fan,Note
+TripA01,2019-06-25_13-21-14,Munich East,sunny,21.0,22.0,86.3%,80.3%,6.0%,25.5,23.0,7.43,16.82,,"Automatic, Level 1",
+TripA02,2019-06-25_14-05-31,Munich East,sunny,23.0,26.0,80.3%,67.3%,13.0%,32.0,23.0,23.51,23.55,,"Automatic, Level 1",Target Cabin Temperature changed 
+TripA03,2019-06-28_10-02-15,Munich East,sunny,24.0,25.0,83.5%,75.1%,8.4%,21.5,27.0,12.82,11.18,,"Automatic, Level 1",Target Cabin Temperature changed 
+TripA04,2019-06-28_10-13-30,Munich East,sunny,25.0,27.0,75.1%,66.7%,8.4%,24.0,22.0,10.73,6.87,,"Automatic, Level 1",
+TripA05,2019-06-28_10-20-26,Munich East,sunny,27.0,27.0,66.7%,60.2%,6.5%,24.5,24.0,12.39,22.78,,"Automatic, Level 1",
+TripA06,2019-07-01_09-05-25,Munich North,sunny,25.0,28.0,85.1%,63.4%,21.7%,26.5,26.0,45.99,52.74,,"Automatic, Level 1",Target Cabin Temperature changed 
+TripA07,2019-07-01_12-59-48,Munich North,sunny,30.0,30.0,63.4%,34.2%,29.2%,33.5,25.0,44.34,34.89,,"Automatic, Level 1",
+TripA08,2019-07-02_17-36-31,Munich East,slightly cloudy,26.0,27.0,86.6%,76.1%,10.5%,27.0,25.0,18.23,46.76,,"Automatic, Level 1",
+TripA09,2019-07-03_08-05-00,Munich East,slightly cloudy,22.0,22.0,74.7%,68.6%,6.1%,17.5,21.0,11.66,30.57,,"Automatic, Level 1",
+TripA10,2019-07-03_12-16-12,Munich East,slightly cloudy,22.0,23.0,69.6%,60.9%,8.7%,22.5,25.0,16.25,23.63,,"Automatic, Level 1",
+TripA11,2019-07-04_15-09-22,Munich East,sunny,26.0,27.0,87.0%,75.6%,11.4%,30.0,30.0,17.73,23.74,,"Automatic, Level 1",
+TripA12,2019-07-04_15-51-48,Munich East,sunny,28.0,30.0,75.5%,64.3%,11.2%,26.5,25.0,18.65,27.31,,"Automatic, Level 1",
+TripA13,2019-07-05_09-02-55,Munich East,sunny,22.0,22.0,85.5%,82.9%,2.6%,21.0,23.0,4.57,11.93,,"Automatic, Level 1",
+TripA14,2019-07-05_09-18-22,Munich East,sunny,22.0,22.0,82.8%,79.9%,2.9%,24.5,22.0,4.93,11.58,,"Automatic, Level 1",
+TripA15,2019-07-08_12-19-56,Munich East,rainy,17.0,19.0,74.8%,63.4%,11.4%,19.0,23.0,26.97,37.23,,"Automatic, Level 1",
+TripA16,2019-07-08_13-17-32,Munich East,rainy,19.0,19.0,63.0%,51.5%,11.5%,19.5,23.0,28.80,31.78,,"Automatic, Level 1",
+TripA17,2019-07-09_09-37-58,Munich East,slightly cloudy,16.0,18.0,86.8%,77.9%,8.9%,15.5,25.0,12.97,11.14,,"Automatic, Level 1",
+TripA18,2019-07-09_09-49-09,Munich East,slightly cloudy,18.0,19.0,77.9%,70.2%,7.7%,16.0,22.0,12.19,14.68,,"Automatic, Level 1",Target Cabin Temperature changed 
+TripA19,2019-07-09_17-48-14,Munich East,slightly cloudy,22.0,22.0,88.5%,80.4%,8.1%,23.5,30.0,16.73,26.46,,"Automatic, Level 1",
+TripA20,2019-07-10_08-07-22,Munich East,slightly cloudy,17.0,17.0,77.0%,69.1%,7.9%,14.0,26.0,11.52,28.66,,"Automatic, Level 1",
+TripA21,2019-07-10_16-40-57,Munich East,sunny,18.0,20.0,71.3%,63.7%,7.6%,22.5,22.0,14.32,33.05,,"Automatic, Level 1",
+TripA22,2019-07-11_07-48-28,Munich East,sunny,19.0,20.0,87.3%,76.5%,10.8%,17.0,23.0,19.37,30.65,,"Automatic, Level 1",
+TripA23,2019-07-12_10-41-36,Munich East,sunny,16.0,17.0,87.4%,81.9%,5.5%,19.5,28.0,8.36,17.38,,"Automatic, Level 1",
+TripA24,2019-07-12_11-08-00,Munich East,sunny,17.0,19.0,81.9%,74.4%,7.5%,19.0,23.0,11.27,8.87,,"Automatic, Level 1",
+TripA25,2019-07-12_10-59-05,Munich East,sunny,19.0,20.0,74.4%,65.2%,9.2%,17.0,33.0,12.21,12.71,,"Automatic, Level 1",
+TripA26,2019-07-15_13-08-25,Munich East,slightly cloudy,19.0,20.0,86.2%,78.8%,7.4%,22.0,30.0,18.03,26.87,,"Automatic, Level 1",
+TripA27,2019-07-15_13-45-10,Munich East,slightly cloudy,20.0,22.0,78.5%,66.8%,11.7%,25.5,25.0,20.43,33.34,,"Automatic, Level 1",
+TripA28,2019-07-16_10-31-30,Munich East,sunny,18.0,19.0,81.9%,72.0%,9.9%,20.5,25.0,19.52,29.06,,"Automatic, Level 1",
+TripA29,2019-07-16_11-10-00,Munich East,sunny,19.0,21.0,70.9%,63.1%,7.8%,24.0,29.0,16.33,22.32,,"Automatic, Level 1",
+TripA30,2019-07-19_09-34-23,Munich East,sunny,20.0,20.0,85.5%,81.0%,4.5%,19.0,25.0,7.75,23.29,,"Automatic, Level 1",
+TripA31,2019-07-19_09-34-23,Munich East,sunny,20.0,21.0,81.0%,82.5%,71.9%,23.5,26.0,15.98,19.78,,"Automatic, Level 1",
+TripA32,2019-07-22_12-56-55,Munich East,slightly cloudy,21.0,26.0,86.5%,59.5%,27.0%,20.0,27.5,37.21,27.87,,"Automatic, Level 1",
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+TripB01,2019-12-07_12-35-00,FTMRoute (2x),cloudy,7.0,15.0,86.1%,57.4%,28.7%,8.5,22.0,38.79,54.20,,"Automatic, Level 1",
+TripB02,2019-12-07_17-49-35,FTMRoute,"dark, little rainy",13.0,15.0,81.0%,66.2%,14.8%,6.5,22.0,18.93,26.85,,"Automatic, Level 1",
+TripB03,2019_12_08_09-38-26,FTMRoute,sunny,9.0,12.0,67.4%,50.4%,17.0%,3.5,22.0,19.40,26.32,,"Automatic, Level 1",Sunday -> little traffic
+TripB04,2019_12_08_13-47-18,Munich North + Fast Charging,cloudy,12.0,20.0,45.1%,69.2%,-24.1%,9.0,22.0,16.60,49.25,,"Automatic, Level 1",Sunday -> little traffic
+TripB05,2019_12_09_07-58-11,Munich North,cloudy,10.0,11.0,71.9%,59.5%,12.4%,7.0,22.0,14.82,16.99,,"Automatic, Level 1",Rush Hour
+TripB06,2019_12_09_18-16-14,Munich North,dark,11.0,13.0,83.2%,69.3%,13.9%,6.0,22.0,16.58,22.53,,"Automatic, Level 1",Rush Hour
+TripB07,2019-12-10_09-35-46,Munich Northeast,slightly cloudy,5.0,8.0,67.4%,50.4%,17.0%,2.5,22.0,30.38,38.16,,"Automatic, Level 1",
+TripB08,2019-12-17_07-21-04,Munich Northeast,cloudy,7.0,10.0,67.3%,44.0%,23.3%,3.5,22.0,32.22,48.57,,"Automatic, Level 1",
+TripB09,2020-01-02_13-45-21,Munich South,sunny,0.0,14.0,70.0%,46.0%,24.0%,5.5,22.0,54.18,93.50,,"Automatic, Level 1","Fast Charging, '+70 kg"
+TripB10,2020-01-03_10-50-36,Highway,slightly cloudy,2.0,14.0,84.8%,39.0%,45.8%,2.5,22.0,47.84,33.72,,"Automatic, Level 1",+70 kg
+TripB11,2020-01-03_11-36-24,Munich South,cloudy,14.0,15.0,38.9%,30.8%,8.1%,4.0,22.0,10.21,12.56,,"Automatic, Level 1",
+TripB12,2020-01-03_12-16-10,Highway,cloudy,22.0,20.0,73.4%,51.3%,22.1%,7.5,22.0,37.06,53.76,,"Automatic, Level 1",
+TripB13,2020-01-03_13-23-24,Munich South,cloudy,20.0,20.0,57.0%,55.1%,1.9%,6.0,22.0,2.78,5.91,,"Automatic, Level 1",
+TripB14,2020-01-05_11-08-25,Highway,cloudy,3.0,13.0,85.5%,34.6%,50.9%,3.0,22.0,60.97,63.70,,"Automatic, Level 1",+70kg
+TripB15,2020-01-07_10-02-47,FTMRoute,slightly cloudy,9.0,11.0,85.1%,67.5%,17.6%,2.0,22.0,19.24,30.37,,"Automatic, Level 1",FTMRoute
+TripB16,2020-01-07_10-33-19,FTMRoute,slightly cloudy,11.0,13.0,67.5%,52.8%,14.7%,3.0,22.0,19.23,25.48,,"Automatic, Level 1",FTMRoute (directly after previous trip)
+TripB17,2020-01-07_10-58-55,FTMRoute,slightly cloudy,13.0,15.0,52.8%,37.2%,15.6%,3.5,22.0,19.25,26.02,,"Automatic, Level 1",FTM Route (directly after previous trip)
+TripB18,2020-01-08_17-43-26,Munich North,cloudy,3.0,6.0,82.8%,68.1%,14.7%,2.5,22.0,15.81,18.49,,"Automatic, Level 1",
+TripB19,2020-01-09_08-29-07,Munich North,sunrise,6.0,8.0,85.8%,71.6%,14.2%,3.0,22.0,16.43,19.85,,"Automatic, Level 1",
+TripB20,2020-01-09_17-21-44,Munich North,dark,10.0,12.0,72.7%,62.0%,10.7%,5.0,22.0,12.34,23.38,,"Automatic, Level 1",Rush Hour
+TripB21,2020-01-10_08-07-33,Munich North,sunrise,7.0,9.0,55.7%,41.1%,14.6%,1.5,22.0,15.84,17.33,,"Automatic, Level 1",
+TripB22,2020-01-10_16-42-46,Munich North,sunset,11.0,13.0,84.4%,70.5%,13.9%,7.5,22.0,16.86,19.99,,"Automatic, Level 1",+80 kg
+TripB23,2020-01-11_12-52-38,Munich North,slightly cloudy,6.0,10.0,72.1%,53.5%,18.6%,5.0,22.0,18.71,18.55,,"Automatic, Level 1",+60 kg 
+TripB24,2020-01-11_14-29-56,Munich North,slightly cloudy,10.0,11.0,53.4%,45.5%,7.9%,6.5,22.0,9.33,16.30,,"Automatic, Level 1",+60 kg 
+TripB25,2020-01-11_14-55-27,Munich North,slightly cloudy,10.0,12.0,45.4%,33.6%,11.8%,5.5,22.0,13.50,17.03,,"Automatic, Level 1",+70 kg 
+TripB26,2020-01-11_15-24-57,Munich North,slightly cloudy,12.0,15.0,33.4%,21.2%,12.2%,5.5,22.0,14.70,13.42,,"Automatic, Level 1",
+TripB27,2020-01-12_11-12-56,FTMRoute,sunny,1.0,5.0,52.9%,34.5%,18.4%,1.0,22.0,19.23,24.48,,"Automatic, Level 1",Sunday -> little traffic
+TripB28,2020-01-12_11-37-29,FTMRoute,sunny,5.0,10.0,34.4%,20.0%,14.4%,3.5,22.0,17.53,22.77,,"Automatic, Level 1","Sunday -> little traffic, (directly after previous trip)"
+TripB29,2020-01-12_12-33-29,Munich North,cloudy,11.0,14.0,31.5%,15.4%,16.1%,3.5,22.0,15.83,16.14,,"Automatic, Level 1",Sunday -> little traffic
+TripB30,2020-01-13_07-53-37,Munich North,sunrise,4.0,6.0,84.2%,70.4%,13.8%,0.0,22.0,14.86,15.35,,"Automatic, Level 1 (screen defrost for the first 2 min)",
+TripB31,2020-01-13_17-31-04,Munich North,dark,6.0,8.0,72.1%,57.8%,14.3%,3.5,22.0,15.24,18.28,,"Automatic, Level 1",
+TripB32,2020-01-14_09-47-42,Munich North,cloudy,4.0,7.0,52.6%,38.1%,14.5%,2.0,22.0,14.24,13.26,,"Automatic, Level 1",
+TripB33,2020-01-14_11-44-28,Munich North,cloudy,11.0,12.0,77.4%,71.6%,5.8%,4.0,22.0,7.03,9.13,,"Automatic, Level 1",+ 160 kg
+TripB34,2020-01-14_12-55-08,Munich North,cloudy,11.0,11.0,73.9%,71.3%,2.6%,5.5,22.0,9.14,12.23,,"Automatic, Level 1",+ 160 kg
+TripB35,2020-01-14_17-59-06,Munich North,dark,11.0,13.0,85.4%,71.5%,13.9%,4.0,22.0,15.42,22.71,,"Automatic, Level 1",
+TripB36,2020-01-15_10-43-44,Munich North,sunny,6.0,10.0,72.1%,44.5%,27.6%,4.0,22.0,38.72,47.54,,"Automatic, Level 1",Open door at 37:10 and 42:00 for 30s
+TripB37,2020-01-21_09-15-20,Munich East,slightly cloudy,8.0,10.0,83.8%,68.0%,15.8%,-3.0,22.0,17.46,23.62,,"Automatic, Level 1",
+TripB38,2020-02-07_09-32-02,FTMRoute reverse,sunny,-1.0,3.0,65.0%,48.8%,16.2%,-1.5,22.0,18.90,27.38,,"Automatic, Level 1",Rush Hour
+,,,,,,,,,,,,,,,
