@@ -27,10 +27,14 @@ These features were used to predict battery performance and degradation.
 
    Enter battery parameters in the Streamlit app
    Get predicted degradation and LLM explanations
-
+   
+   
+   Here is a quick demo of the project in action:
+   https://github.com/Muzhgan-Rustaqi/Battery-Design-Optimization-Assistant/blob/main/BatteryOptimizationProject/Assest/GIF.gif 
 
 Author
 Muzhgan Rustaqi
+
 
 
 
